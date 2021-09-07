@@ -1,0 +1,12 @@
+{
+    "name": "analogic_watch",
+    "description": "A analogic watch.",
+    "version": "1.0.0",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/rafaelkero/Javascript.git"
+    },
+    "keywords": [],
+    "author": "Rafael Quero",
+    "license": ""
+  }
